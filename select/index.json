@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "not ok",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T07:53:18.765444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm Not Ok",
+      "artist": "ILOVEMAKONNEN",
+      "has_synced": false,
+      "path": "select/01_I'm_Not_Ok_ILOVEMAKONNEN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's Not Ok...",
+      "artist": "Refused",
+      "has_synced": true,
+      "path": "select/02_It's_Not_Ok..._Refused.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Not Ok",
+      "artist": "Clara Mae",
+      "has_synced": true,
+      "path": "select/03_Not_Ok_Clara_Mae.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Not Ok",
+      "artist": "Kygo feat. Chelsea Cutler",
+      "has_synced": true,
+      "path": "select/04_Not_Ok_Kygo_feat._Chelsea_Cutler.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Not Ok",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/05_Not_Ok_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Not Ok",
+      "artist": "Transviolet",
+      "has_synced": true,
+      "path": "select/06_Not_Ok_Transviolet.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Not Ok (Frank Walker Remix)",
+      "artist": "Kygo; Chelsea Cutler",
+      "has_synced": true,
+      "path": "select/07_Not_Ok_(Frank_Walker_Remix)_Kygo;_Chelsea_Cutler.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's Not Ok",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/08_It's_Not_Ok_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Not OK",
+      "artist": "Kygo & Chelsea Cutler",
+      "has_synced": true,
+      "path": "select/09_Not_OK_Kygo_&_Chelsea_Cutler.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Not OK",
+      "artist": "María Mena",
+      "has_synced": true,
+      "path": "select/10_Not_OK_María_Mena.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Not OK",
+      "artist": "Maria Mena",
+      "has_synced": true,
+      "path": "select/11_Not_OK_Maria_Mena.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Not Ok",
+      "artist": "Kygo, Chelsea Cutler",
+      "has_synced": true,
+      "path": "select/12_Not_Ok_Kygo,_Chelsea_Cutler.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Not Ok",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/13_Not_Ok_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We are not ok",
+      "artist": "Nestor",
+      "has_synced": true,
+      "path": "select/14_We_are_not_ok_Nestor.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'm Not Ok",
+      "artist": "Weathers",
+      "has_synced": true,
+      "path": "select/15_I'm_Not_Ok_Weathers.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Not Ok (Frank Walker remix)",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/16_Not_Ok_(Frank_Walker_remix)_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'm Not OK",
+      "artist": "H.E.R.",
+      "has_synced": true,
+      "path": "select/17_I'm_Not_OK_H.E.R..lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Not OK",
+      "artist": "Teenage Bottlerocket",
+      "has_synced": true,
+      "path": "select/18_Not_OK_Teenage_Bottlerocket.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Not Ok",
+      "artist": "Kygo/Chelsea Cutler",
+      "has_synced": true,
+      "path": "select/19_Not_Ok_Kygo_Chelsea_Cutler.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "not ok",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_not_ok_ピーナッツくん.txt"
+    }
+  ]
+}
